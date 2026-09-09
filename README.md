@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi, I’m Gerta 👋
 
-<!--
-**gertaxhepi/gertaxhepi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Manager with a Software Engineering Background
 
-Here are some ideas to get you started:
+I’m an engineer-turned-product manager with 7 years of experience in software engineering and 5 years in product management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’ve built products across HR tech, marketplaces, workflow SaaS and AI, including work at XING, onlyfy, Jacando and Microsoft.
+
+### 🔭 What I’m currently working on
+
+- Building **PeakProfile**, an AI-assisted mountaineering platform
+- Exploring AI agents for operational and communication workflows
+- Creating explainable, human-centred AI products
+
+### 🛠️ Product and technical skills
+
+Product discovery · Product strategy · AI products · APIs · Analytics · A/B testing · Taxonomies · Marketplace products · SaaS · Agentic workflows
+
+### 🔗 Connect with me
+
+- [Explore my product portfolio](https://gertaproduct.com)
+- [Connect with me on LinkedIn](https://www.linkedin.com/in/gerta-xhepi-94853289/)
+- [View my work on Lovable](https://lovable.dev/@gertax_x)
