@@ -1,4 +1,4 @@
-## Hi, I’m Gerta 👋
+# Hi, I’m Gerta 👋
 
 ### Product Manager with a Software Engineering Background
 
