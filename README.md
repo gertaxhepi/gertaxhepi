@@ -88,6 +88,7 @@ OpenAI · Codex · Claude · Cursor · Lovable · Mixpanel · Tableau · Adobe A
 ## 🔗 Connect with me
 
 - [Explore my product portfolio](https://gertaproduct.com/)
+- [Check out my resume](https://gertaproduct.com/resume)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/gerta-xhepi-94853289/)
 - [Explore my prototypes on Lovable](https://lovable.dev/@gertax_x)
 - [View my frontend experiments on CodePen](https://codepen.io/xhepigerta)
