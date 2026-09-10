@@ -54,7 +54,6 @@ Improved the structured data and taxonomy powering salary estimates for millions
 
 Built an end-to-end electronic-signature experience that allowed HR teams to prepare, send, sign, and store employment contracts without leaving Jacando.
 
-**Outcome:** Shipped the MVP in **7 weeks**, with adoption by **200+ customers**.
 ---
 
 ## 🧭 How I approach product development
