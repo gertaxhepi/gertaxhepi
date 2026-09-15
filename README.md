@@ -2,9 +2,9 @@
 
 ### Product Manager with a Software Engineering Background
 
+🌐 **[View my product portfolio →](https://gertaproduct.com/)**
 
-
-I build products where user needs, business goals, and technology meet. My experience spans **HR tech, marketplaces, workflow SaaS, platforms, and AI**, including work at **XING/onlyfy**.
+I build products where user needs, business goals, and technology meet. My experience spans **HR tech, marketplaces, workflow SaaS, platforms, and AI**, including work at **XING and onlyfy**.
 
 I especially enjoy turning complex workflows and technical possibilities into products that are clear, useful, and measurable.
 
