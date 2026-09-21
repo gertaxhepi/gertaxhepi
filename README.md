@@ -27,7 +27,8 @@ I’m exploring how structured climbing experience, route requirements, determin
 
 [View the GitHub repository →](https://github.com/gertaxhepi/peakprofile-climb-smart)  
 [Read the PeakProfile case study →](https://gertaproduct.com/case-studies/peakprofile)
-🌐 [APP Website →](https://peakprofile.app/)
+
+🌐[APP Website →](https://peakprofile.app/)
 
 ---
 
