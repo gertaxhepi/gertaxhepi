@@ -12,7 +12,7 @@ I especially enjoy turning complex workflows and technical possibilities into pr
 
 ## 🏔️ Currently building
 
-### [PeakProfile](https://github.com/gertaxhepi/peakprofile-climb-smart) · 2025–Present
+### [PeakProfile](https://peakprofile.app/) · 2025–Present
 
 An AI-assisted platform that helps mountaineers and mountain guides plan better-matched expeditions across the Alps.
 
@@ -27,6 +27,7 @@ I’m exploring how structured climbing experience, route requirements, determin
 
 [View the GitHub repository →](https://github.com/gertaxhepi/peakprofile-climb-smart)  
 [Read the PeakProfile case study →](https://gertaproduct.com/case-studies/peakprofile)
+🌐 [APP Website →](https://peakprofile.app/)
 
 ---
 
