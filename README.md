@@ -34,17 +34,9 @@ I’m exploring how structured climbing experience, route requirements, determin
 
 ## 💼 Previous product work
 
-### [XING Notifications](https://gertaproduct.com/case-studies/notifications) · 2021–2022
+### [Jacando Electronic Signature](https://gertaproduct.com/case-studies/electronic-signature) · 2024–2025
 
-Improved how job seekers received relevant updates by introducing segmentation based on their job-seeking status.
-
-**Outcome:** Increased notification open rates by **40%**.
-
-### [onlyfy Talent Pool](https://gertaproduct.com/case-studies/onlyfy-talent-pool) · 2022–2023
-
-Helped migrate candidates from onlyfy to XING through a clear communication and opt-in experience.
-
-**Outcome:** Approximately **40% of contacted candidates joined the new talent pool**.
+Built an end-to-end electronic-signature experience that allowed HR teams to prepare, send, sign, and store employment contracts without leaving Jacando.
 
 ### [XING Salary Estimation and Structured Job Data](https://gertaproduct.com/case-studies/salary-transparency) · 2023–2024
 
@@ -52,9 +44,14 @@ Improved the structured data and taxonomy powering salary estimates for millions
 
 **Outcome:** Increased prediction accuracy and coverage while improving marketplace efficiency.
 
-### [Jacando Electronic Signature](https://gertaproduct.com/case-studies/electronic-signature) · 2024–2025
 
-Built an end-to-end electronic-signature experience that allowed HR teams to prepare, send, sign, and store employment contracts without leaving Jacando.
+### [XING Notifications](https://gertaproduct.com/case-studies/notifications) · 2021–2022
+
+Improved how job seekers received relevant updates by introducing segmentation based on their job-seeking status.
+
+### [onlyfy Talent Pool](https://gertaproduct.com/case-studies/onlyfy-talent-pool) · 2022–2023
+
+Helped migrate candidates from onlyfy to XING through a clear communication and opt-in experience.
 
 ---
 
